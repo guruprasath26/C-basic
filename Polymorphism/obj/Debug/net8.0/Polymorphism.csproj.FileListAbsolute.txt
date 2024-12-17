@@ -1,0 +1,14 @@
+D:\guru\c#\DotnetTutprial\Polymorphism\bin\Debug\net8.0\Polymorphism.exe
+D:\guru\c#\DotnetTutprial\Polymorphism\bin\Debug\net8.0\Polymorphism.deps.json
+D:\guru\c#\DotnetTutprial\Polymorphism\bin\Debug\net8.0\Polymorphism.runtimeconfig.json
+D:\guru\c#\DotnetTutprial\Polymorphism\bin\Debug\net8.0\Polymorphism.dll
+D:\guru\c#\DotnetTutprial\Polymorphism\bin\Debug\net8.0\Polymorphism.pdb
+D:\guru\c#\DotnetTutprial\Polymorphism\obj\Debug\net8.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\guru\c#\DotnetTutprial\Polymorphism\obj\Debug\net8.0\Polymorphism.AssemblyInfoInputs.cache
+D:\guru\c#\DotnetTutprial\Polymorphism\obj\Debug\net8.0\Polymorphism.AssemblyInfo.cs
+D:\guru\c#\DotnetTutprial\Polymorphism\obj\Debug\net8.0\Polymorphism.csproj.CoreCompileInputs.cache
+D:\guru\c#\DotnetTutprial\Polymorphism\obj\Debug\net8.0\Polymorphism.dll
+D:\guru\c#\DotnetTutprial\Polymorphism\obj\Debug\net8.0\refint\Polymorphism.dll
+D:\guru\c#\DotnetTutprial\Polymorphism\obj\Debug\net8.0\Polymorphism.pdb
+D:\guru\c#\DotnetTutprial\Polymorphism\obj\Debug\net8.0\Polymorphism.genruntimeconfig.cache
+D:\guru\c#\DotnetTutprial\Polymorphism\obj\Debug\net8.0\ref\Polymorphism.dll
