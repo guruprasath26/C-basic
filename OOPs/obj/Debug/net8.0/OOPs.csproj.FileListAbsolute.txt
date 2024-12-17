@@ -1,0 +1,14 @@
+D:\guru\c#\DotnetTutprial\OOPs\bin\Debug\net8.0\OOPs.exe
+D:\guru\c#\DotnetTutprial\OOPs\bin\Debug\net8.0\OOPs.deps.json
+D:\guru\c#\DotnetTutprial\OOPs\bin\Debug\net8.0\OOPs.runtimeconfig.json
+D:\guru\c#\DotnetTutprial\OOPs\bin\Debug\net8.0\OOPs.dll
+D:\guru\c#\DotnetTutprial\OOPs\bin\Debug\net8.0\OOPs.pdb
+D:\guru\c#\DotnetTutprial\OOPs\obj\Debug\net8.0\OOPs.GeneratedMSBuildEditorConfig.editorconfig
+D:\guru\c#\DotnetTutprial\OOPs\obj\Debug\net8.0\OOPs.AssemblyInfoInputs.cache
+D:\guru\c#\DotnetTutprial\OOPs\obj\Debug\net8.0\OOPs.AssemblyInfo.cs
+D:\guru\c#\DotnetTutprial\OOPs\obj\Debug\net8.0\OOPs.csproj.CoreCompileInputs.cache
+D:\guru\c#\DotnetTutprial\OOPs\obj\Debug\net8.0\OOPs.dll
+D:\guru\c#\DotnetTutprial\OOPs\obj\Debug\net8.0\refint\OOPs.dll
+D:\guru\c#\DotnetTutprial\OOPs\obj\Debug\net8.0\OOPs.pdb
+D:\guru\c#\DotnetTutprial\OOPs\obj\Debug\net8.0\OOPs.genruntimeconfig.cache
+D:\guru\c#\DotnetTutprial\OOPs\obj\Debug\net8.0\ref\OOPs.dll

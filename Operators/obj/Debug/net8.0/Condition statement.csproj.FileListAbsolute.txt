@@ -1,0 +1,14 @@
+D:\guru\c#\DotnetTutprial\Operators\obj\Debug\net8.0\Condition statement.GeneratedMSBuildEditorConfig.editorconfig
+D:\guru\c#\DotnetTutprial\Operators\obj\Debug\net8.0\Condition statement.AssemblyInfoInputs.cache
+D:\guru\c#\DotnetTutprial\Operators\obj\Debug\net8.0\Condition statement.AssemblyInfo.cs
+D:\guru\c#\DotnetTutprial\Operators\obj\Debug\net8.0\Condition statement.csproj.CoreCompileInputs.cache
+D:\guru\c#\DotnetTutprial\Operators\bin\Debug\net8.0\Condition statement.exe
+D:\guru\c#\DotnetTutprial\Operators\bin\Debug\net8.0\Condition statement.deps.json
+D:\guru\c#\DotnetTutprial\Operators\bin\Debug\net8.0\Condition statement.runtimeconfig.json
+D:\guru\c#\DotnetTutprial\Operators\bin\Debug\net8.0\Condition statement.dll
+D:\guru\c#\DotnetTutprial\Operators\bin\Debug\net8.0\Condition statement.pdb
+D:\guru\c#\DotnetTutprial\Operators\obj\Debug\net8.0\Condition statement.dll
+D:\guru\c#\DotnetTutprial\Operators\obj\Debug\net8.0\refint\Condition statement.dll
+D:\guru\c#\DotnetTutprial\Operators\obj\Debug\net8.0\Condition statement.pdb
+D:\guru\c#\DotnetTutprial\Operators\obj\Debug\net8.0\Condition statement.genruntimeconfig.cache
+D:\guru\c#\DotnetTutprial\Operators\obj\Debug\net8.0\ref\Condition statement.dll

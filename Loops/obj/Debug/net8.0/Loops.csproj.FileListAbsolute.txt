@@ -1,0 +1,14 @@
+D:\guru\c#\DotnetTutprial\Loops\bin\Debug\net8.0\Loops.exe
+D:\guru\c#\DotnetTutprial\Loops\bin\Debug\net8.0\Loops.deps.json
+D:\guru\c#\DotnetTutprial\Loops\bin\Debug\net8.0\Loops.runtimeconfig.json
+D:\guru\c#\DotnetTutprial\Loops\bin\Debug\net8.0\Loops.dll
+D:\guru\c#\DotnetTutprial\Loops\bin\Debug\net8.0\Loops.pdb
+D:\guru\c#\DotnetTutprial\Loops\obj\Debug\net8.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\guru\c#\DotnetTutprial\Loops\obj\Debug\net8.0\Loops.AssemblyInfoInputs.cache
+D:\guru\c#\DotnetTutprial\Loops\obj\Debug\net8.0\Loops.AssemblyInfo.cs
+D:\guru\c#\DotnetTutprial\Loops\obj\Debug\net8.0\Loops.csproj.CoreCompileInputs.cache
+D:\guru\c#\DotnetTutprial\Loops\obj\Debug\net8.0\Loops.dll
+D:\guru\c#\DotnetTutprial\Loops\obj\Debug\net8.0\refint\Loops.dll
+D:\guru\c#\DotnetTutprial\Loops\obj\Debug\net8.0\Loops.pdb
+D:\guru\c#\DotnetTutprial\Loops\obj\Debug\net8.0\Loops.genruntimeconfig.cache
+D:\guru\c#\DotnetTutprial\Loops\obj\Debug\net8.0\ref\Loops.dll
